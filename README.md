@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website built with React.js and Tailwind CSS, featuring smooth animations and a clean design.
 
-![Portfolio Preview](https://github.com/your-username/portfolio/raw/main/preview.png)
+![Portfolio Preview](https://github.com/Shubham25112002/MyPortfolio/blob/main/Media/Screenshot%202024-12-10%20125220.png)
 
 ## 🚀 Features
 
